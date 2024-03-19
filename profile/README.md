@@ -23,3 +23,9 @@ Coming soon...
 
 **Free Software, Hell Yeah!**
 
+#### How to document an existing API?
+TBD
+#### How to locate APIs?
+TBD
+#### How to write a client to access the APIs?
+TBD
