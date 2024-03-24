@@ -24,8 +24,9 @@ Coming soon...
 **Free Software, Hell Yeah!**
 
 #### How to document an existing API?
-TBD
+The first part is to explain what the possibilities of the API in question. What its capabilities are. The next step is to ensure the current documentation is available to the accesssible to either an internal setting or publicly accesssible. This is sop ther users can provide feedback and questions about the API.
 #### How to locate APIs?
-TBD
+API marketplaces, simple google search and developer forums and websites 
 #### How to write a client to access the APIs?
-TBD
+
+
