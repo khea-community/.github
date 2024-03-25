@@ -28,5 +28,6 @@ The first part is to explain what the possibilities of the API in question. What
 #### How to locate APIs?
 API marketplaces, simple google search and developer forums and websites 
 #### How to write a client to access the APIs?
+The client API will contain the following a URL of the API, an authentication mechanism such as a token and paramaters of there specific objective. By executing this you are requesting the client API to interact with a users end system. 
 
 
